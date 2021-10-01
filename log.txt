@@ -1,0 +1,68 @@
+commit c3d555268c32677df7a951ed0875faeab6b95baf
+Author: Alexandr <kas24-2002@mail.ru>
+Date:   Thu Sep 30 11:30:56 2021 +1000
+
+    comm2
+
+ ...6\320\272\321\203\320\274\320\265\320\275\321\202 Microsoft Word.docx" | 0
+ ... \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202.txt" | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 27f49bba67be74117b61acc7ad8bdc2cbef0c727
+Author: Alexandr <kas24-2002@mail.ru>
+Date:   Thu Sep 30 11:07:04 2021 +1000
+
+    comm2
+
+ my_first_file.txt                                                       | 2 +-
+ ...320\272\321\203\320\274\320\265\320\275\321\202 Microsoft Word.docx" | 0
+ ...320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202.txt" | 0
+ 3 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 9331cac6efc97590db2c1f5db5cd6ce30b4b8d00
+Author: Alexandr <kas24-2002@mail.ru>
+Date:   Thu Sep 30 11:06:33 2021 +1000
+
+    comm
+
+ my_second_file.txt => my_first_file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8543aaf73b4a86aaedbd0f73d60053f08673f9fa
+Author: Alexandr <kas24-2002@mail.ru>
+Date:   Thu Sep 30 10:31:30 2021 +1000
+
+    4
+
+ my_first_file.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f429f4e83ad608676cd79c7d6edafb2fe034afc6
+Author: Alexandr <kas24-2002@mail.ru>
+Date:   Thu Sep 30 10:21:38 2021 +1000
+
+    3
+
+ .gitignore    | 2 ++
+ log/main.html | 0
+ log/some.tmp  | 0
+ 3 files changed, 2 insertions(+)
+
+commit 96e6d2da9a88f4b0a4999fe83a5c059972796f72
+Author: Alexandr <kas24-2002@mail.ru>
+Date:   Fri Sep 24 12:34:11 2021 +1000
+
+    my_second_file.txt
+
+ my_second_file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit ad6e870d154bdcb8a314a14eded9541562d10026
+Author: Alexandr <kas24-2002@mail.ru>
+Date:   Fri Sep 24 12:20:58 2021 +1000
+
+    first
+
+ my_first_file.txt  | 1 +
+ my_second_file.txt | 0
+ 2 files changed, 1 insertion(+)
